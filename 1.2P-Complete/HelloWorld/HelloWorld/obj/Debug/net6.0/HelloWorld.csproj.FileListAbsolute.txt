@@ -1,0 +1,30 @@
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\Uni - Thom\Code\COS20007_1.2P\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\1.2P-Complete\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

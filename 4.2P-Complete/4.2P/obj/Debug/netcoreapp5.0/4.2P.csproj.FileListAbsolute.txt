@@ -1,0 +1,64 @@
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\bin\Debug\netcoreapp5.0\4.2P.exe
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\bin\Debug\netcoreapp5.0\4.2P.deps.json
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.json
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.dev.json
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\bin\Debug\netcoreapp5.0\4.2P.dll
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\bin\Debug\netcoreapp5.0\4.2P.pdb
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.AssemblyReference.cache
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfoInputs.cache
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfo.cs
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.CoreCompileInputs.cache
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.dll
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\refint\4.2P.dll
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.pdb
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\4.2P.genruntimeconfig.cache
+D:\Uni\COS20007\Portfolio_Tasks\4.2P\obj\Debug\netcoreapp5.0\ref\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.exe
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.deps.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.dev.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.AssemblyReference.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfoInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfo.cs
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.CoreCompileInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\refint\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.genruntimeconfig.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete\4.2P\obj\Debug\netcoreapp5.0\ref\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.exe
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.deps.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.dev.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\bin\Debug\netcoreapp5.0\4.2P.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.AssemblyReference.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfoInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfo.cs
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.CoreCompileInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\refint\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\4.2P.genruntimeconfig.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Not_Complete\4.2P\obj\Debug\netcoreapp5.0\ref\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\bin\Debug\netcoreapp5.0\4.2P.exe
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\bin\Debug\netcoreapp5.0\4.2P.deps.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\bin\Debug\netcoreapp5.0\4.2P.runtimeconfig.dev.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\bin\Debug\netcoreapp5.0\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\bin\Debug\netcoreapp5.0\4.2P.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.AssemblyReference.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfoInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.AssemblyInfo.cs
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.csproj.CoreCompileInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\refint\4.2P.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\4.2P.genruntimeconfig.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\4.2P-Complete - NS\4.2P\obj\Debug\netcoreapp5.0\ref\4.2P.dll

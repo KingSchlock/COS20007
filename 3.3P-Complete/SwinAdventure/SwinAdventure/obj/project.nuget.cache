@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "54FDalhnqDArvDRJGaVtzC+yRGUTCZN20DcUEXOHxtrvDGErgsffIHzIwpyaLxXwYmAgZp0WPx9PGSlNTdm59Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\3.3P-Complete\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
