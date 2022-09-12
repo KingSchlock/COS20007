@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rsZDLVFo214KOIHP2Rd3YkSQFyfZjkdeNvIwObh4B2uaWMalh4aVtXw/kNiNBljElWelvbEEzHmHKca3YpFozA==",
+  "dgSpecHash": "mdv1jGZ/S/HoSpePLXUml+a31MKjTw1trIg5EyYrY6XUwDb/Ce0QlcyFFf63qOfplvLAzf93plWIjuK5PpfOcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\4.3P-Complete\\SwinAdventure\\SwinAdventureTests\\SwinAdventureTests.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,8 @@
     "C:\\Users\\thomh\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\thomh\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\thomh\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\nunit.consolerunner\\3.15.2\\nunit.consolerunner.3.15.2.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.7.1\\nunit.extension.nunitprojectloader.3.7.1.nupkg.sha512",
     "C:\\Users\\thomh\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\thomh\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\thomh\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",

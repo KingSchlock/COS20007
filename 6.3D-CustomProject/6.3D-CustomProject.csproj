@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Resources\images\" />
+    <Folder Include="Resources\sounds\" />
+  </ItemGroup>
+
 </Project>

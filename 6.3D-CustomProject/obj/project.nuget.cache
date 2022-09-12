@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zl9kLTcmePZH33/Hq0AYBBOzOTBxkI+u+Ikp7IoKpsH39ELfhdnHvcWJIfByyTpAelitISAU28aR6DED+kKGwA==",
+  "dgSpecHash": "Cipexymzsm7fOgjcQbpi362Po7bg7Mau22M0v4Nbv91CqAQho3z7P01CqzCQRv2CVgxqTW841LGpNwL9cZOLlA==",
   "success": true,
-  "projectFilePath": "C:\\users\\thomh\\documents\\uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

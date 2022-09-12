@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.3.1",
           "NUnit": "3.13.3",
-          "NUnit.Analyzers": "3.3.0",
+          "NUnit.ConsoleRunner": "3.15.2",
+          "NUnit.Extension.NUnitProjectLoader": "3.7.1",
           "NUnit3TestAdapter": "4.2.1",
           "SwinAdventure": "1.0.0",
           "coverlet.collector": "3.1.2"
@@ -360,6 +361,8 @@
         }
       },
       "NUnit.Analyzers/3.3.0": {},
+      "NUnit.ConsoleRunner/3.15.2": {},
+      "NUnit.Extension.NUnitProjectLoader/3.7.1": {},
       "NUnit3TestAdapter/4.2.1": {},
       "System.Collections/4.0.11": {
         "dependencies": {
@@ -762,6 +765,20 @@
       "sha512": "sha512-gyRc0qmXUIjHaTcHTWZDHK5ccOF6cLEOGQJ6Fj5JWKh8/W1XzPFC6zGXRu5sDNSxfKaNeQRmkdz3M73ArQkY1A==",
       "path": "nunit.analyzers/3.3.0",
       "hashPath": "nunit.analyzers.3.3.0.nupkg.sha512"
+    },
+    "NUnit.ConsoleRunner/3.15.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oOW0VH9VRt3dZKFulHgEXPgsdYbIP1qbWf1/cQX3t4Tz0Exgmd6MGMOrYTgktZ2o/JOf+MFNYksh267Jrfz+ig==",
+      "path": "nunit.consolerunner/3.15.2",
+      "hashPath": "nunit.consolerunner.3.15.2.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitProjectLoader/3.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cZYJoUlx4wu9PU/ue6glZQDK3VHDBG0ZI4jK4wIp9+km7wktjxGqtpp7UodGdsgceJyvOQcXTM72Q7pm74XiVg==",
+      "path": "nunit.extension.nunitprojectloader/3.7.1",
+      "hashPath": "nunit.extension.nunitprojectloader.3.7.1.nupkg.sha512"
     },
     "NUnit3TestAdapter/4.2.1": {
       "type": "package",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\thomh\\documents\\uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj": {}
+    "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj": {}
   },
   "projects": {
-    "C:\\users\\thomh\\documents\\uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj": {
+    "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\thomh\\documents\\uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj",
+        "projectUniqueName": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj",
         "projectName": "6.3D-CustomProject",
-        "projectPath": "C:\\users\\thomh\\documents\\uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj",
+        "projectPath": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\6.3D-CustomProject.csproj",
         "packagesPath": "C:\\Users\\thomh\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\thomh\\documents\\uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\obj\\",
+        "outputPath": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\6.3D-CustomProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thomh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,24 +50,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

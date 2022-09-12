@@ -1,0 +1,16 @@
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\bin\Debug\netcoreapp5.0\6.3D-CustomProject.exe
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\bin\Debug\netcoreapp5.0\6.3D-CustomProject.deps.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\bin\Debug\netcoreapp5.0\6.3D-CustomProject.runtimeconfig.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\bin\Debug\netcoreapp5.0\6.3D-CustomProject.runtimeconfig.dev.json
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\bin\Debug\netcoreapp5.0\6.3D-CustomProject.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\bin\Debug\netcoreapp5.0\6.3D-CustomProject.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.csproj.AssemblyReference.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.AssemblyInfoInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.AssemblyInfo.cs
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.csproj.CoreCompileInputs.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\refint\6.3D-CustomProject.dll
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.pdb
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\6.3D-CustomProject.genruntimeconfig.cache
+C:\Users\thomh\Documents\Uni\COS20007\Portfolio_Tasks\6.3D-CustomProject\obj\Debug\netcoreapp5.0\ref\6.3D-CustomProject.dll

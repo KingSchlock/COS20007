@@ -52,9 +52,13 @@
               "target": "Package",
               "version": "[3.13.3, )"
             },
-            "NUnit.Analyzers": {
+            "NUnit.ConsoleRunner": {
               "target": "Package",
-              "version": "[3.3.0, )"
+              "version": "[3.15.2, )"
+            },
+            "NUnit.Extension.NUnitProjectLoader": {
+              "target": "Package",
+              "version": "[3.7.1, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",

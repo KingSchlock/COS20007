@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "O7JzAi+UtLAtzjX+MNSEgNSfAq2GH4TtzeDHK+zbVXiFPZN1bCOzf8FNVfCDdtMh5ncDkXh43a5tX+82AE/UnQ==",
+  "dgSpecHash": "06avWzgrpWdqrBO58UO1Oc65VKO6dL5ZzYN2FrdiJkI9YVxEKP6Bn8WTAyeY0JYHGwXDoze0ZO2vk/nUqqS37A==",
   "success": true,
   "projectFilePath": "C:\\Users\\thomh\\Documents\\Uni\\COS20007\\Portfolio_Tasks\\5.2C-Complete\\5.2C-Not_Complete.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thomh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
